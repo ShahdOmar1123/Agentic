@@ -1,0 +1,23 @@
+Ahmed Hassan
+Cairo, Egypt | ahmed.hassan@example.com | +20 100 123 4567
+
+Backend developer with 4 years of experience building APIs and data pipelines.
+Interested in applied AI and LLM-powered products.
+
+EXPERIENCE
+Senior Backend Developer - Vodafone Egypt (March 2022 - Present)
+- Built REST APIs with FastAPI serving 2M requests/day
+- Migrated legacy services to PostgreSQL and Redis
+
+Junior Python Developer - Raya Software (June 2020 - February 2022)
+- Wrote ETL jobs with Pandas and Airflow
+- Automated reporting, saving 10 hours per week
+
+EDUCATION
+B.Sc. Computer Science - Assiut University, 2020
+
+SKILLS
+Python, FastAPI, PostgreSQL, Redis, Docker, Git, Airflow, pandas, python, Teamwork
+
+LANGUAGES
+Arabic (native), English (fluent)
